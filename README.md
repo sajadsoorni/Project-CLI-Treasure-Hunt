@@ -2,7 +2,4 @@ I completed the CLI Treasure Hunt project and learned a lot about using the comm
 
 I have found the answers and recorded them in Answer/answer.txt using the command line. Here is the link to the branch I created:
 
-[Link to my branch](https://github.com/sajadsoorni/Project-CLI-Treasure-Hunt/tree/sajad-answer)
-
-
 Thank you to the CodeYourFuture team for this valuable experience🙏
